@@ -1,0 +1,30 @@
+* {
+	font-family: 'Pangolin', cursive;
+}
+
+body {
+	margin: 3px;
+}
+
+#menu {
+	margin: 20px;
+	text-align: center;
+	font-size: 38px;
+}
+
+#item {
+	padding: 5px;
+	background-color: grey;
+	margin: 5px;
+	font-size: 20px;
+	color: black;
+}
+
+#itemHead {
+	font-size: 29px;
+	text-align: center;
+}
+
+#navbarNav {
+	text-align: center;
+}
